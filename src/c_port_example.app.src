@@ -1,0 +1,7 @@
+{application, c_port_example_app, 
+  [
+    {description, "An example for making sure I can write a minimal C port effectively."},
+    {vsn, "0.0.1"},
+    {modules, [server]}
+  ]
+}
